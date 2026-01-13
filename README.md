@@ -53,7 +53,7 @@ While the price prediction model is highly precise, the classification accuracy 
 
 ## Technologies Utilized
 
-- **Core Engine**: Python 3.x
+- **Core Engine**: Python
 - **Analysis**: `pandas`, `numpy`
 - **Visualization**: `matplotlib`, `seaborn`
 - **Machine Learning**: `scikit-learn`, `xgboost`
