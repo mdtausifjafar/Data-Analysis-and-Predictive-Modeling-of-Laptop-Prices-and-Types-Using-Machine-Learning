@@ -2,16 +2,24 @@ PROPRIETARY LICENSE
 
 Copyright (c) 2024 Md. Tausif Jafar. All Rights Reserved.
 
-This project and associated documentation files are the exclusive 
+This project and associated documentation files (the "Project") are the exclusive
 property of Md. Tausif Jafar. All rights are reserved.
 
 RESTRICTIONS:
-- No person or entity may use, copy, modify, merge, publish, distribute, sublicense, 
-  or sell copies of the project without explicit written permission from the copyright holder.
-- The project is provided for viewing and educational reference purposes only.
-- Any unauthorized use, reproduction, or distribution of this project is strictly prohibited 
+- No person or entity may use, copy, modify, merge, publish, distribute, sublicense,
+  or sell copies of the Project without explicit written permission from the copyright holder.
+- The Project is provided for viewing and educational reference purposes only.
+- Any unauthorized use, reproduction, or distribution of this Project is strictly prohibited
   and may result in legal action.
 
 PERMISSIONS:
 - Viewing the source code for educational purposes is permitted.
 - Academic citation and reference to this work is allowed with proper attribution.
+
+DISCLAIMER:
+THE PROJECT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM,
+DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE PROJECT OR THE USE OR OTHER DEALINGS
+IN THE PROJECT.
