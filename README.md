@@ -41,7 +41,7 @@ To achieve maximum accuracy, the project implements **Voting Ensembles** to comb
 | **Price Prediction**    | **Voting Regressor** (RF + GB + XGB)  | **R²**      | **0.9024** |
 | **Type Classification** | **Voting Classifier** (RF + GB + XGB) | **Accuracy** | **0.82**   |
 
-> [NOTE]
+> [!NOTE]
 > The analysis shows that the engineered **Product_Category** (from NLP) and **Weight** are among the most critical features in determining both price and intended laptop use.
 
 ### Understanding Classification Accuracy (82%)
