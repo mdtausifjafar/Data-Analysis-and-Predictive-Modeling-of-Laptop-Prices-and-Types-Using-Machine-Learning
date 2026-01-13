@@ -41,6 +41,13 @@ To achieve maximum accuracy, the project implements **Voting Ensembles** to comb
 | **Price Prediction**    | **Voting Regressor** (RF + GB + XGB)  | **R²**       | **0.9024** |
 | **Type Classification** | **Voting Classifier** (RF + GB + XGB) | **Accuracy** | **0.82**   |
 
+### Understanding Classification Accuracy (82%)
+
+While the price prediction model is highly precise, the classification accuracy of **82%** reflects the inherent ambiguity in the laptop market's product segmentation. Key reasons for this include:
+
+- **Feature Overlap**: Modern "Notebooks" and "Ultrabooks" often share nearly identical hardware specifications (RAM, CPU, Storage). Their primary difference is often chassis thickness or weight, which can vary by only a few millimeters or grams, making distinct categorization challenging for data-driven models.
+- **Class Imbalance**: The dataset is numerically dominated by the "Notebook" category. This natural market distribution makes it more difficult for the model to achieve 100% precision on rarer categories like "Workstations" or "2 in 1 Convertibles," which may share specs with higher-volume models.
+
 The analysis shows that the engineered **Product_Category** (from NLP) and **Weight** are among the most critical features in determining both price and intended laptop use.
 
 ## Technologies Utilized
